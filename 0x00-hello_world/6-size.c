@@ -3,7 +3,7 @@
  * main - print the string in the put function 
  * Description: using the main function 
  * this program print the various size of the computer compiler 
- * Return: 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
